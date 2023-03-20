@@ -35,3 +35,43 @@ tfoot {
 textarea {
   resize: vertical;
 }
+
+#main-section {
+  border: 1px solid tomato;
+  padding: 20px;
+}
+
+.listing {
+  border: 1px solid tomato;
+  padding: 20px;
+}
+
+.listing li{
+  margin-left: 40px;
+}
+
+.headings {
+  border: inherit;
+  text-align: center;
+}
+
+#linked a{
+  text-decoration: none;
+  cursor: none;
+}
+
+.spanned {
+  display: block;
+}
+
+.divs{
+  width:200px;
+  height:200px;
+  display:inline;
+}
+
+.button{
+  transform: scale(200%);
+}
+
+
